@@ -1,0 +1,8 @@
+maps/*.bsp
+maps/*.prt
+maps/*.lin
+maps/*.log
+maps/graphs/
+mapsrc/*.vmx
+mapsrc/*_autosave.vmf
+mapsrc/*.bak
