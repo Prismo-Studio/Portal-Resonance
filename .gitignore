@@ -1,8 +1,24 @@
+# Compiled maps (peuvent sortir dans maps/ ou mapsrc/ selon la config Hammer)
 maps/*.bsp
 maps/*.prt
 maps/*.lin
 maps/*.log
 maps/graphs/
+maps/soundcache/
+mapsrc/*.bsp
+mapsrc/*.prt
+mapsrc/*.lin
+mapsrc/*.log
+
+# Hammer temp / autosaves
 mapsrc/*.vmx
 mapsrc/*_autosave.vmf
 mapsrc/*.bak
+
+# Fichiers générés au lancement du mod
+cfg/config.cfg
+demoheader.tmp
+modelsounds.cache
+stats.txt
+voice_ban.dt
+workshop_log.txt
